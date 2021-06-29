@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thessler27/background-audio-plugin.git"
+    "url": "https://github.com/KevRyan2/background-audio-plugin"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thessler27/background-audio-plugin/issues"
+    "url": "https://github.com/KevRyan2/background-audio-plugin/issues"
   },
-  "homepage": "https://github.com/thessler27/background-audio-plugin#readme"
+  "homepage": "https://github.com/KevRyan2/background-audio-plugin#readme"
 }
